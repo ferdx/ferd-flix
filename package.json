@@ -1,0 +1,41 @@
+{
+  "name": "ferd-flix",
+  "version": "0.0.3",
+  "description": "A Ferd module that shows nearby movie times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ferd"
+  ],
+  "author": {
+    "name": "David Rosson"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "showtimes": "^1.7.0"
+  },
+  "_id": "ferd-flix@0.0.3",
+  "_shasum": "827732bfcb0306ed8bd233df29af123450fb0213",
+  "_from": "ferd-flix@latest",
+  "_npmVersion": "2.13.3",
+  "_nodeVersion": "0.12.6",
+  "_npmUser": {
+    "name": "gartenfeld",
+    "email": "DERosson@gmail.com"
+  },
+  "dist": {
+    "shasum": "d5e0a6c5948363f243211f30ab98d9c07cf0e215",
+    "tarball": "http://registry.npmjs.org/ferd-flix/-/ferd-flix-0.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "gartenfeld",
+      "email": "DERosson@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ferd-flix/-/ferd-flix-0.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
